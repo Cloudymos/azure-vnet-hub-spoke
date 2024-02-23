@@ -1,4 +1,4 @@
-# azure-vpc-hub-spoke
+# azure-vnet-hub-spoke
 This Terraform module provisions Azure network infrastructure, including virtual networks (VNets), subnets, route tables, network security groups, peering connections, and virtual machines (VMs), to establish a hub-and-spoke network topology. **For additional resources, examples, and community engagement**, check out the portal [Cloudymos](https://cloudymos.com) :cloud:.
 
 ## Features
