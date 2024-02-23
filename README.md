@@ -103,3 +103,12 @@ module "azure_network_infrastructure" {
 | gateway_ip_ip_address              | Public IP address of the VPN gateway         |
 | gateway_ip_gateway_onpremises_ip  | Public IP address of the on-premises gateway|
 
+## License
+This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) file for details.
+## Contributing
+Contributions are welcome! Please follow the guidance below for details on how to contribute to this project:
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/your-feature-name`
+5. Open a pull request
