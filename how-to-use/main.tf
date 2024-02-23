@@ -1,5 +1,5 @@
 module "vpc_hub_spoke" {
-  source = "./module-vpc"
+  source = "https://github.com/Cloudymos/azure-vpc-hub-spoke?ref=v1.0.0"
 
   # Virtual Machine Configuration
   create_vms      = true
